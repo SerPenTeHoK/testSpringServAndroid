@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="testSpringServAndroid:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="remindme-server.war">
+      <element id="artifact" artifact-name="testSpringServAndroid:war exploded" />
+    </root>
+  </artifact>
+</component>
